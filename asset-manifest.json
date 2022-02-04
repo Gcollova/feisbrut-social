@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/feisbrut-social/static/css/main.b4981c33.css",
+    "main.js": "/feisbrut-social/static/js/main.d84479f4.js",
+    "static/js/787.022a8c81.chunk.js": "/feisbrut-social/static/js/787.022a8c81.chunk.js",
+    "static/media/socialbg.jpeg": "/feisbrut-social/static/media/socialbg.589a623ad350b7c82e8a.jpeg",
+    "static/media/facebook.ttf": "/feisbrut-social/static/media/facebook.7ca587aeb7142d877d0c.ttf",
+    "index.html": "/feisbrut-social/index.html",
+    "main.b4981c33.css.map": "/feisbrut-social/static/css/main.b4981c33.css.map",
+    "main.d84479f4.js.map": "/feisbrut-social/static/js/main.d84479f4.js.map",
+    "787.022a8c81.chunk.js.map": "/feisbrut-social/static/js/787.022a8c81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4981c33.css",
+    "static/js/main.d84479f4.js"
+  ]
+}
