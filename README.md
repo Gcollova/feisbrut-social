@@ -22,4 +22,4 @@
 - Full-Responsive
 
 
-### [>>> Live Demo](https://giusene.github.io/Feisbrut-React-Social/)
+### [>>> Live Demo](https://gcollova.github.io/feisbrut-social/)

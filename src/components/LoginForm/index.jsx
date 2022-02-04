@@ -24,13 +24,13 @@ const LoginForm = ({setForm}) => {
             if (data.response) {
                 setMessage(data.response)
             } else {
-                dispatch(setLogin({ ...data[0] }));
+                dispatch(setLogin({ ...data}));
                     window.localStorage.setItem('feisbrut', JSON.stringify({ 
-                    userId: data[0].id,
-                    login_time: data[0].login_time,
-                    user_token: data[0].user_token,
-                    checkSession: data[0].checkSession,
-                    logged: data[0].logged
+                    userId: data.id,
+                    login_time: data.login_time,
+                    user_token: data.user_token,
+                    checkSession: data.checkSession,
+                    logged: data.logged
                 }));
             }
         }).catch(e => setMessage('Errore di connessione'))
