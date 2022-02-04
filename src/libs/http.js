@@ -95,10 +95,10 @@ const sendEmail = (email, res, name, type) => {
     let template;
     switch (type) {
         case 'verify/key=':
-            template = 'template_kwdpgz7';
+            template = 'template_3drgz8f';
             break;
         case 'passreset/key=':
-            template = 'template_xr8np26';
+            template = 'template_kh0tfks';
             break;
         default:
             break;

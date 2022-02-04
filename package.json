@@ -1,7 +1,7 @@
 {
   "name": "feisbrut",
   "version": "0.1.0",
-  "homepage": "https://giusene.github.io/Feisbrut-React-Social/",
+  "homepage": "https://Gcollova.github.io/feisbrut-social/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.7.1",
