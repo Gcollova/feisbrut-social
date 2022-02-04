@@ -24,7 +24,7 @@ const LoginForm = ({setForm}) => {
             if (data.response) {
                 setMessage(data.response)
             } else {
-                dispatch(setLogin({ ...data}));
+                dispatch(setLogin(data));
                     window.localStorage.setItem('feisbrut', JSON.stringify({ 
                     userId: data.id,
                     login_time: data.login_time,
